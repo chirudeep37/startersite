@@ -1,2 +1,0 @@
-# startersite
-Plasmic sample site
